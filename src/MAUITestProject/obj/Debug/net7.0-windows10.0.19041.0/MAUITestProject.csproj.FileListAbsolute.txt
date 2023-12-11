@@ -1,0 +1,6 @@
+C:\Users\L00161625\source\repos\Pipeline\src\MAUITestProject\bin\Debug\net7.0-windows10.0.19041.0\CoverletSourceRootsMapping
+C:\Users\L00161625\source\repos\Pipeline\src\MAUITestProject\obj\Debug\net7.0-windows10.0.19041.0\MAUITestProject.csproj.AssemblyReference.cache
+C:\Users\L00161625\source\repos\Pipeline\src\MAUITestProject\obj\Debug\net7.0-windows10.0.19041.0\MAUITestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00161625\source\repos\Pipeline\src\MAUITestProject\obj\Debug\net7.0-windows10.0.19041.0\MAUITestProject.AssemblyInfoInputs.cache
+C:\Users\L00161625\source\repos\Pipeline\src\MAUITestProject\obj\Debug\net7.0-windows10.0.19041.0\MAUITestProject.AssemblyInfo.cs
+C:\Users\L00161625\source\repos\Pipeline\src\MAUITestProject\obj\Debug\net7.0-windows10.0.19041.0\MAUITestProject.csproj.CoreCompileInputs.cache
